@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "foods": [
+        {
+          "Name": "Snicker",
+          "Price": 0.8
+        },
+        {
+          "Name": "Bounty",
+          "Price": 0.8
+        },
+        {
+          "Name": "Mars",
+          "Price": 0.8
+        },
+        {
+          "Name": "Tutku",
+          "Price": 0.5
+        }
+      ],
+      "yekun_mebleg": 2.9,
+      "odenilmis_mebleg": 10.8,
+      "qaliq_mebleg": -2.1
+    },
+    {
+      "foods": [
+        {
+          "Name": "Coca Cola",
+          "Price": 1.0
+        },
+        {
+          "Name": "Pepsi",
+          "Price": 1.0
+        },
+        {
+          "Name": "Coca Cola",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Albeni",
+          "Price": 1.0
+        },
+        {
+          "Name": "Bounty",
+          "Price": 1.0
+        }
+      ],
+      "yekun_mebleg": 6.0,
+      "odenilmis_mebleg": 10.0,
+      "qaliq_mebleg": 4.0
+    },
+    {
+      "foods": [
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        }
+      ],
+      "yekun_mebleg": 9.0,
+      "odenilmis_mebleg": 10.0,
+      "qaliq_mebleg": 1.0
+    },
+    {
+      "foods": [
+        {
+          "Name": "Coca Cola",
+          "Price": 1.0
+        },
+        {
+          "Name": "Pepsi",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Albeni",
+          "Price": 1.0
+        }
+      ],
+      "yekun_mebleg": 4.0,
+      "odenilmis_mebleg": 10.0,
+      "qaliq_mebleg": 6.0
+    },
+    {
+      "foods": [
+        {
+          "Name": "Coca Cola",
+          "Price": 1.0
+        },
+        {
+          "Name": "Pepsi",
+          "Price": 1.0
+        },
+        {
+          "Name": "Fanta",
+          "Price": 1.0
+        },
+        {
+          "Name": "Albeni",
+          "Price": 1.0
+        },
+        {
+          "Name": "Snicker",
+          "Price": 1.0
+        }
+      ],
+      "yekun_mebleg": 5.0,
+      "odenilmis_mebleg": 10.0,
+      "qaliq_mebleg": 5.0
+    }
+  ]
+}

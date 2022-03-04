@@ -1,0 +1,14 @@
+C:\Users\Shebnem\source\repos\Market\Market\bin\Debug\Market.exe.config
+C:\Users\Shebnem\source\repos\Market\Market\bin\Debug\Market.exe
+C:\Users\Shebnem\source\repos\Market\Market\bin\Debug\Market.pdb
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.FoodUC.resources
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.Form1.resources
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.exe
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.pdb
+C:\Users\Shebnem\source\repos\Market\Market\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shebnem\source\repos\Market\Market\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shebnem\source\repos\Market\Market\obj\Debug\Market.csproj.CopyComplete
